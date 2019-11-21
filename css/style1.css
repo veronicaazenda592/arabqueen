@@ -1,0 +1,13 @@
+body{
+    height: 100%;
+    width: 100%;
+    padding-top: 40px;
+}
+.navbar-inverse {
+  background-color: #0066FF;
+  border-color: #23415c;
+}
+
+.navbar-inverse li a:hover {
+    color: aqua;
+}
